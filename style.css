@@ -1,0 +1,31 @@
+body {
+    background-color: #E0FFFF;
+}
+
+.mainHead {
+    font-family: Arial;
+    text-align: center;
+}
+
+.btnDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.alertBtn {
+    font-family: Arial;
+    font-size: 20px;
+    background-color: #663399;
+    border: 2px solid #663399;
+    color: #ffffff;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+}
+
+.alertBtn:hover {
+    background-color: #4B0082;
+    border: 2px solid #4B0082;
+    color: #ffffff;
+}
